@@ -4,4 +4,4 @@ ISBNやタイトルなどのキーワードを指定して検索することが�
 
 以下のサイトにて実際に動作確認をすることができます。
 
-URL:https://yuukilion.github.io/book-search-app/
+URL: https://yuukilion.github.io/book-search-app/
